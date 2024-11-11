@@ -37,3 +37,11 @@ npm start
 Acesse o aplicativo em http://localhost:3000 no seu navegador. 
 
 
+
+## Capturas de Tela
+
+![Página inicial do aplicativo](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/v2%20home.png?raw=true)
+
+![Lista de pokemóns](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/list%20v2.png?raw=true)
+
+
