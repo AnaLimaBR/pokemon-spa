@@ -36,6 +36,4 @@ npm start
 ```
 Acesse o aplicativo em http://localhost:3000 no seu navegador. 
 
-## Capturas de Tela
-###![Página inicial do aplicativo](./images/v2 home.png)
-###![Lista de pokemóns](./images/list v2.png)
+
