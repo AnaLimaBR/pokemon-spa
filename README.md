@@ -1,32 +1,36 @@
 # POKEMON-SPA
- 
-Uma aplicação em React que exibe uma lista de Pokémon com detalhes visuais e navegação entre páginas. O projeto utiliza a PokéAPI para obter dados dos Pokémon, e inclui componentes estilizados para criar uma experiência de usuário agradável e intuitiva. O design inclui uma lista de Pokémon apresentada em cards com imagens, links para detalhes e integração de Material-UI para uma interface moderna e responsiva.
 
-## Funcionalidades
-**Lista de Pokémon**: Exibe uma lista de Pokémon com nome, imagem e botão para ver detalhes.
-**Detalhes do Pokémon**: Cada Pokémon possui uma página individual com informações detalhadas.
-**Navegação Intuitiva**: O cabeçalho oferece navegação fácil entre a página inicial e a lista.
-**Responsividade e Estilo**: Utilização de Material-UI para estilização de componentes e responsividade. O tema é inspirado no universo Pokémon.
+A React application that displays a list of Pokémon with visual details and page navigation. The project uses the PokéAPI to retrieve Pokémon data and includes styled components to create a pleasant and intuitive user experience. The design features a list of Pokémon presented in cards with images, links to details, and Material-UI integration for a modern, responsive interface.
 
-## Tecnologias Utilizadas
-**React**: Framework principal para criação dos componentes.
-**React Router**: Gerenciamento de rotas para navegação entre páginas.
-**Material-UI**: Biblioteca de componentes para um design visual aprimorado e responsivo.
-**PokéAPI**: API para obter dados dos Pokémon em tempo real.
+## Features
+- **Pokémon List**: Displays a list of Pokémon with names, images, and a button for more details.
+- **Pokémon Details**: Each Pokémon has an individual page with detailed information.
+- **Intuitive Navigation**: The header provides easy navigation between the homepage and the list.
+- **Responsiveness & Style**: Uses Material-UI for component styling and responsiveness, inspired by the Pokémon universe.
 
-## Estrutura do Projeto
-**src/components**: Contém componentes reutilizáveis, incluindo o cabeçalho (Header), rodapé (Footer) e lista de Pokémon (PokemonList).
-**src/pages**: Contém as páginas principais, como Home, List (lista de Pokémon) e PokemonDetail (detalhes do Pokémon).
-**src/App.js**: Gerencia as rotas e estrutura principal da aplicação.
+## Technologies Used
+- **React**: Main framework for creating components.
+- **React Router**: Manages routes for page navigation.
+- **Material-UI**: Component library for enhanced and responsive design.
+- **PokéAPI**: API for real-time Pokémon data.
 
+## Project Structure
+- **src/components**: Contains reusable components, including Header, Footer, and the Pokémon list (PokemonList).
+- **src/pages**: Contains main pages, such as Home, List (Pokémon list), and PokemonDetail (Pokémon details).
+- **src/App.js**: Manages routes and the main structure of the application.
 
-## Como Executar
-Clone o repositório:
+## How to Run
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/pokemon-explorer.git 
+```
+Clone the repository:
 
 ```bash
 git clone https://github.com/SEU_USUARIO/pokemon-explorer.git 
 ```
-Instale as dependências:
+Install dependencies:
 
 ```bash 
 git clone https://github.com/SEU_USUARIO/pokemon-explorer.git 
@@ -34,14 +38,14 @@ git clone https://github.com/SEU_USUARIO/pokemon-explorer.git
 ```bash
 npm start
 ```
-Acesse o aplicativo em http://localhost:3000 no seu navegador. 
+Acess the app at http://localhost:3000 on your browser.
 
 
 
-## Capturas de Tela
+## Screenshots
 
-![Página inicial do aplicativo](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/v2%20home.png?raw=true)
+![HomePage](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/v2%20home.png?raw=true)
 
-![Lista de pokemóns](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/list%20v2.png?raw=true)
+![Pokemóns List](https://github.com/AnaLimaBR/pokemon-spa/blob/main/src/images/list%20v2.png?raw=true)
 
 
